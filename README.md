@@ -71,7 +71,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Bello github promocion de proyectos] https://github.com/ para compartir con el mundo mis logros y de mis futuros equipos
 * [render] (https://render.com/)   no te tenia fe pero hiciste realidad mis proyectos
 * [FastApi](https://fastapi.tiangolo.com/)  que decir  hermosoFRameWork
-* 
+* [link al video explicativo]https://www.veed.io/view/f049d45c-22da-481a-be76-2b6d70aaf8f7?panel=share
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
