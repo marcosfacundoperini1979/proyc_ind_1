@@ -53,6 +53,12 @@ pero pude probar la fast api en otra pc y el codigo funciona correctamente
    con mucho trabajo y nueva tecnologia que desconocia aprendi hacer un deployment de mi api  la cual funcionan de los 6 end points 3  los otros 3  se queda sin recursos la
    maquina virtual que me manda mails y lo mejor que ya no es mi pc...
        #*--- lo cual vern con el video que si funciona mi codigo ---*
+
+       
+ ## descripcion de filas 🛠️
+ directorio etl archivos notebooks que me dieron lscsv finales para hacer el deploy
+ veran que hay 10 archivos que los divide asi para luego joinearlos en el deploy para usar un solo archivo y evadir a github que no te deja archivos de >100mb
+ queria usar  un formato de compresion pero estaba muy jugado con el tiempo y habia que terminarlo
       
    
 ## Construido con 🛠️
