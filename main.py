@@ -15,7 +15,7 @@ app = FastAPI()
 df1 = pd.read_csv('steamgames_final.csv')
 #df2 = pd.read_csv(r'C:\python\proyectohenry\data\user_items_final2.csv')
 dataframes = []
-# Cargar cada archivo CSV en un DataFrame y añadirlo a la lista
+# Cargar cada archivo CSV en u n Df y lo uno
 for i in range(10):
     df_i = pd.read_csv(f'parte_{i}.csv')
     dataframes.append(df_i)
