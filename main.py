@@ -8,7 +8,7 @@ import numpy as np
 
 app = FastAPI()
 
-df1 = pd.read_csv(r'C:\python\proyectohenry\data\steamgames_final.csv')
+df1 = pd.read_csv('steamgames_final.csv')
 #df2 = pd.read_csv(r'C:\python\proyectohenry\data\user_items_final2.csv')
 
 
@@ -29,7 +29,7 @@ df2 = pd.concat(dataframes)
 
 
 
-df3 = pd.read_csv(r'C:\python\proyectohenry\data\user_reviews_final.csv')
+df3 = pd.read_csv('user_reviews_final.csv')
 
 
 
